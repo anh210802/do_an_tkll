@@ -1,0 +1,65 @@
+{
+ "Device" : "GW1NR-9C",
+ "Files" : [
+  {
+   "Path" : "E:/DO_AN_TKLL/do_an_tkll/src/button.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/DO_AN_TKLL/do_an_tkll/src/controller.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/DO_AN_TKLL/do_an_tkll/src/effect0.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/DO_AN_TKLL/do_an_tkll/src/effect1.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/DO_AN_TKLL/do_an_tkll/src/effect2.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/DO_AN_TKLL/do_an_tkll/src/effect3.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/DO_AN_TKLL/do_an_tkll/src/effect4.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/DO_AN_TKLL/do_an_tkll/src/effect5.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/DO_AN_TKLL/do_an_tkll/src/effect6.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/DO_AN_TKLL/do_an_tkll/src/main.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/DO_AN_TKLL/do_an_tkll/src/setting.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/DO_AN_TKLL/do_an_tkll/src/switch.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "E:/DO_AN_TKLL/do_an_tkll/impl/temp/rtl_parser.result",
+ "Top" : "",
+ "VerilogStd" : "sysv",
+ "VhdlStd" : "vhdl_93"
+}

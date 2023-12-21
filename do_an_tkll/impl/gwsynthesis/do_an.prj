@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gowin-synthesis-project>
+<Project>
+    <Version>beta</Version>
+    <Device id="GW1NR-9C" package="QFN88P" speed="6" partNumber="GW1NR-LV9QN88PC6/I5"/>
+    <FileList>
+        <File path="E:\DO_AN_TKLL\do_an_tkll\src\button.v" type="verilog"/>
+        <File path="E:\DO_AN_TKLL\do_an_tkll\src\controller.v" type="verilog"/>
+        <File path="E:\DO_AN_TKLL\do_an_tkll\src\effect0.v" type="verilog"/>
+        <File path="E:\DO_AN_TKLL\do_an_tkll\src\effect1.v" type="verilog"/>
+        <File path="E:\DO_AN_TKLL\do_an_tkll\src\effect2.v" type="verilog"/>
+        <File path="E:\DO_AN_TKLL\do_an_tkll\src\effect3.v" type="verilog"/>
+        <File path="E:\DO_AN_TKLL\do_an_tkll\src\effect4.v" type="verilog"/>
+        <File path="E:\DO_AN_TKLL\do_an_tkll\src\effect5.v" type="verilog"/>
+        <File path="E:\DO_AN_TKLL\do_an_tkll\src\effect6.v" type="verilog"/>
+        <File path="E:\DO_AN_TKLL\do_an_tkll\src\main.v" type="verilog"/>
+        <File path="E:\DO_AN_TKLL\do_an_tkll\src\setting.v" type="verilog"/>
+        <File path="E:\DO_AN_TKLL\do_an_tkll\src\switch.v" type="verilog"/>
+        <File path="E:\DO_AN_TKLL\do_an_tkll\src\table_char.v" type="verilog"/>
+    </FileList>
+    <OptionList>
+        <Option type="disable_insert_pad" value="0"/>
+        <Option type="looplimit" value="2000"/>
+        <Option type="output_file" value="E:\DO_AN_TKLL\do_an_tkll\impl\gwsynthesis\do_an.vg"/>
+        <Option type="print_all_synthesis_warning" value="0"/>
+        <Option type="ram_rw_check" value="0"/>
+        <Option type="verilog_language" value="sysv-2017"/>
+        <Option type="vhdl_language" value="vhdl-1993"/>
+    </OptionList>
+</Project>

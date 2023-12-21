@@ -1,0 +1,13 @@
+-d E:\DO_AN_TKLL\do_an_tkll\impl\gwsynthesis\do_an.vg
+-p GW1NR-9C-QFN88P-6
+-pn GW1NR-LV9QN88PC6/I5
+-cst E:\DO_AN_TKLL\do_an_tkll\src\connectIO.cst
+-cfg E:\DO_AN_TKLL\do_an_tkll\impl\pnr\device.cfg
+-sdc E:\DO_AN_TKLL\do_an_tkll\src\do_an.sdc
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-correct_hold 1
+-route_maxfan 23

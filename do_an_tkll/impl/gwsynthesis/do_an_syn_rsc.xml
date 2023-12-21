@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="main" Register="32" Alu="27" Lut="11">
+ <SubModule name="CRL" Register="149" Alu="161" Lut="206">
+  <SubModule name="EFFECT_NEXT" Register="24" Lut="40"/>
+  <SubModule name="FREQUENCY_NEXT" Register="24" Lut="39"/>
+  <SubModule name="STOP" Register="24" Lut="39"/>
+  <SubModule name="S0" Register="1" Lut="1"/>
+  <SubModule name="S1" Register="1" Lut="1"/>
+  <SubModule name="S2" Register="1" Lut="1"/>
+  <SubModule name="S3" Register="1" Lut="1"/>
+  <SubModule name="S4" Register="1" Lut="1"/>
+  <SubModule name="S5" Register="1" Lut="1"/>
+  <SubModule name="S6" Register="1" Lut="1"/>
+  <SubModule name="E0" Register="133" Alu="62" Lut="116">
+   <SubModule name="READ0" Register="7" Lut="90"/>
+   <SubModule name="READ1" Register="7" Lut="81"/>
+   <SubModule name="READ2" Register="7" Lut="76"/>
+   <SubModule name="READ3" Register="7" Lut="82"/>
+   <SubModule name="READ4" Register="7" Lut="87"/>
+   <SubModule name="READ5" Register="7" Lut="76"/>
+   <SubModule name="READ6" Register="7" Lut="84"/>
+  </SubModule>
+  <SubModule name="E1" Register="84" Alu="62" Lut="341">
+   <SubModule name="READ0" Register="7" Lut="82"/>
+   <SubModule name="READ1" Register="7" Lut="87"/>
+   <SubModule name="READ2" Register="7" Lut="84"/>
+   <SubModule name="READ3" Register="7" Lut="81"/>
+   <SubModule name="READ4" Register="7" Lut="83"/>
+   <SubModule name="READ5" Register="7" Lut="96"/>
+   <SubModule name="READ6" Register="7" Lut="85"/>
+  </SubModule>
+  <SubModule name="E2" Register="84" Alu="62" Lut="129">
+   <SubModule name="READ0" Register="7" Lut="83"/>
+   <SubModule name="READ1" Register="7" Lut="80"/>
+   <SubModule name="READ2" Register="7" Lut="86"/>
+   <SubModule name="READ3" Register="7" Lut="78"/>
+   <SubModule name="READ4" Register="7" Lut="70"/>
+   <SubModule name="READ5" Register="7" Lut="88"/>
+   <SubModule name="READ6" Register="7" Lut="86"/>
+  </SubModule>
+  <SubModule name="E3" Register="84" Alu="62" Lut="113">
+   <SubModule name="READ0" Register="7" Lut="82"/>
+   <SubModule name="READ1" Register="7" Lut="84"/>
+   <SubModule name="READ2" Bsram="1"/>
+   <SubModule name="READ3" Bsram="1"/>
+   <SubModule name="READ4" Bsram="1"/>
+   <SubModule name="READ5" Bsram="1"/>
+   <SubModule name="READ6" Bsram="1"/>
+  </SubModule>
+  <SubModule name="E4" Register="84" Alu="62" Lut="157">
+   <SubModule name="READ0" Bsram="1"/>
+   <SubModule name="READ1" Bsram="1"/>
+   <SubModule name="READ2" Bsram="1"/>
+   <SubModule name="READ3" Bsram="1"/>
+   <SubModule name="READ4" Bsram="1"/>
+   <SubModule name="READ5" Bsram="1"/>
+   <SubModule name="READ6" Bsram="1"/>
+  </SubModule>
+  <SubModule name="E5" Register="84" Alu="62" Lut="444">
+   <SubModule name="READ0" Bsram="1"/>
+   <SubModule name="READ1" Bsram="1"/>
+   <SubModule name="READ2" Bsram="1"/>
+   <SubModule name="READ3" Bsram="1"/>
+   <SubModule name="READ4" Bsram="1"/>
+   <SubModule name="READ5" Bsram="1"/>
+   <SubModule name="READ6" Bsram="1"/>
+  </SubModule>
+  <SubModule name="E6" Register="84" Alu="62" Lut="412">
+   <SubModule name="READ0" Bsram="1"/>
+   <SubModule name="READ1" Bsram="1"/>
+   <SubModule name="READ2" Bsram="1"/>
+   <SubModule name="READ3" Bsram="1"/>
+   <SubModule name="READ4" Bsram="1"/>
+   <SubModule name="READ5" Bsram="1"/>
+   <SubModule name="READ6" Bsram="1"/>
+  </SubModule>
+  <SubModule name="SET" Register="147" Alu="96" Lut="194">
+   <SubModule name="WRITE0" Register="7" Lut="83"/>
+   <SubModule name="WRITE1" Register="7" Lut="83"/>
+   <SubModule name="WRITE2" Register="7" Lut="78"/>
+   <SubModule name="WRITE3" Register="7" Lut="78"/>
+   <SubModule name="WRITE4" Register="7" Lut="81"/>
+   <SubModule name="WRITE5" Register="7" Lut="71"/>
+   <SubModule name="WRITE6" Register="7" Lut="89"/>
+   <SubModule name="LEFT" Register="24" Lut="41"/>
+   <SubModule name="RIGHT" Register="24" Lut="39"/>
+   <SubModule name="CHANGE" Register="24" Lut="39"/>
+  </SubModule>
+ </SubModule>
+ <SubModule name="CHANGE_MODE" Register="24" Lut="37"/>
+</Module>

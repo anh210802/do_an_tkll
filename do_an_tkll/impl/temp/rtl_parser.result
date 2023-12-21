@@ -1,0 +1,662 @@
+[
+ {
+  "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/main.v",
+  "InstLine" : 15,
+  "InstName" : "main",
+  "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/main.v",
+  "ModuleLine" : 15,
+  "ModuleName" : "main",
+  "SubInsts" : [
+   {
+    "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/main.v",
+    "InstLine" : 84,
+    "InstName" : "CRL",
+    "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/controller.v",
+    "ModuleLine" : 5,
+    "ModuleName" : "controller",
+    "SubInsts" : [
+     {
+      "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/controller.v",
+      "InstLine" : 407,
+      "InstName" : "EFFECT_NEXT",
+      "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/button.v",
+      "ModuleLine" : 5,
+      "ModuleName" : "button"
+     },
+     {
+      "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/controller.v",
+      "InstLine" : 409,
+      "InstName" : "FREQUENCY_NEXT",
+      "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/button.v",
+      "ModuleLine" : 5,
+      "ModuleName" : "button"
+     },
+     {
+      "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/controller.v",
+      "InstLine" : 411,
+      "InstName" : "STOP",
+      "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/button.v",
+      "ModuleLine" : 5,
+      "ModuleName" : "button"
+     },
+     {
+      "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/controller.v",
+      "InstLine" : 413,
+      "InstName" : "S0",
+      "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/switch.v",
+      "ModuleLine" : 5,
+      "ModuleName" : "switch"
+     },
+     {
+      "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/controller.v",
+      "InstLine" : 414,
+      "InstName" : "S1",
+      "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/switch.v",
+      "ModuleLine" : 5,
+      "ModuleName" : "switch"
+     },
+     {
+      "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/controller.v",
+      "InstLine" : 415,
+      "InstName" : "S2",
+      "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/switch.v",
+      "ModuleLine" : 5,
+      "ModuleName" : "switch"
+     },
+     {
+      "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/controller.v",
+      "InstLine" : 416,
+      "InstName" : "S3",
+      "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/switch.v",
+      "ModuleLine" : 5,
+      "ModuleName" : "switch"
+     },
+     {
+      "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/controller.v",
+      "InstLine" : 417,
+      "InstName" : "S4",
+      "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/switch.v",
+      "ModuleLine" : 5,
+      "ModuleName" : "switch"
+     },
+     {
+      "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/controller.v",
+      "InstLine" : 418,
+      "InstName" : "S5",
+      "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/switch.v",
+      "ModuleLine" : 5,
+      "ModuleName" : "switch"
+     },
+     {
+      "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/controller.v",
+      "InstLine" : 419,
+      "InstName" : "S6",
+      "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/switch.v",
+      "ModuleLine" : 5,
+      "ModuleName" : "switch"
+     },
+     {
+      "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/controller.v",
+      "InstLine" : 421,
+      "InstName" : "E0",
+      "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect0.v",
+      "ModuleLine" : 6,
+      "ModuleName" : "effect0",
+      "SubInsts" : [
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect0.v",
+        "InstLine" : 391,
+        "InstName" : "READ0",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect0.v",
+        "InstLine" : 392,
+        "InstName" : "READ1",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect0.v",
+        "InstLine" : 393,
+        "InstName" : "READ2",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect0.v",
+        "InstLine" : 394,
+        "InstName" : "READ3",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect0.v",
+        "InstLine" : 395,
+        "InstName" : "READ4",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect0.v",
+        "InstLine" : 396,
+        "InstName" : "READ5",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect0.v",
+        "InstLine" : 397,
+        "InstName" : "READ6",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       }
+      ]
+     },
+     {
+      "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/controller.v",
+      "InstLine" : 422,
+      "InstName" : "E1",
+      "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect1.v",
+      "ModuleLine" : 5,
+      "ModuleName" : "effect1",
+      "SubInsts" : [
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect1.v",
+        "InstLine" : 201,
+        "InstName" : "READ0",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect1.v",
+        "InstLine" : 202,
+        "InstName" : "READ1",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect1.v",
+        "InstLine" : 203,
+        "InstName" : "READ2",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect1.v",
+        "InstLine" : 204,
+        "InstName" : "READ3",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect1.v",
+        "InstLine" : 205,
+        "InstName" : "READ4",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect1.v",
+        "InstLine" : 206,
+        "InstName" : "READ5",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect1.v",
+        "InstLine" : 207,
+        "InstName" : "READ6",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       }
+      ]
+     },
+     {
+      "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/controller.v",
+      "InstLine" : 423,
+      "InstName" : "E2",
+      "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect2.v",
+      "ModuleLine" : 5,
+      "ModuleName" : "effect2",
+      "SubInsts" : [
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect2.v",
+        "InstLine" : 211,
+        "InstName" : "READ0",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect2.v",
+        "InstLine" : 212,
+        "InstName" : "READ1",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect2.v",
+        "InstLine" : 213,
+        "InstName" : "READ2",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect2.v",
+        "InstLine" : 214,
+        "InstName" : "READ3",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect2.v",
+        "InstLine" : 215,
+        "InstName" : "READ4",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect2.v",
+        "InstLine" : 216,
+        "InstName" : "READ5",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect2.v",
+        "InstLine" : 217,
+        "InstName" : "READ6",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       }
+      ]
+     },
+     {
+      "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/controller.v",
+      "InstLine" : 424,
+      "InstName" : "E3",
+      "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect3.v",
+      "ModuleLine" : 6,
+      "ModuleName" : "effect3",
+      "SubInsts" : [
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect3.v",
+        "InstLine" : 246,
+        "InstName" : "READ0",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect3.v",
+        "InstLine" : 247,
+        "InstName" : "READ1",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect3.v",
+        "InstLine" : 248,
+        "InstName" : "READ2",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect3.v",
+        "InstLine" : 249,
+        "InstName" : "READ3",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect3.v",
+        "InstLine" : 250,
+        "InstName" : "READ4",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect3.v",
+        "InstLine" : 251,
+        "InstName" : "READ5",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect3.v",
+        "InstLine" : 252,
+        "InstName" : "READ6",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       }
+      ]
+     },
+     {
+      "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/controller.v",
+      "InstLine" : 425,
+      "InstName" : "E4",
+      "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect4.v",
+      "ModuleLine" : 8,
+      "ModuleName" : "effect4",
+      "SubInsts" : [
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect4.v",
+        "InstLine" : 305,
+        "InstName" : "READ0",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect4.v",
+        "InstLine" : 306,
+        "InstName" : "READ1",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect4.v",
+        "InstLine" : 307,
+        "InstName" : "READ2",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect4.v",
+        "InstLine" : 308,
+        "InstName" : "READ3",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect4.v",
+        "InstLine" : 309,
+        "InstName" : "READ4",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect4.v",
+        "InstLine" : 310,
+        "InstName" : "READ5",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect4.v",
+        "InstLine" : 311,
+        "InstName" : "READ6",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       }
+      ]
+     },
+     {
+      "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/controller.v",
+      "InstLine" : 426,
+      "InstName" : "E5",
+      "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect5.v",
+      "ModuleLine" : 6,
+      "ModuleName" : "effect5",
+      "SubInsts" : [
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect5.v",
+        "InstLine" : 489,
+        "InstName" : "READ0",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect5.v",
+        "InstLine" : 490,
+        "InstName" : "READ1",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect5.v",
+        "InstLine" : 491,
+        "InstName" : "READ2",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect5.v",
+        "InstLine" : 492,
+        "InstName" : "READ3",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect5.v",
+        "InstLine" : 493,
+        "InstName" : "READ4",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect5.v",
+        "InstLine" : 494,
+        "InstName" : "READ5",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect5.v",
+        "InstLine" : 495,
+        "InstName" : "READ6",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       }
+      ]
+     },
+     {
+      "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/controller.v",
+      "InstLine" : 427,
+      "InstName" : "E6",
+      "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect6.v",
+      "ModuleLine" : 8,
+      "ModuleName" : "effect6",
+      "SubInsts" : [
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect6.v",
+        "InstLine" : 503,
+        "InstName" : "READ0",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect6.v",
+        "InstLine" : 504,
+        "InstName" : "READ1",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect6.v",
+        "InstLine" : 505,
+        "InstName" : "READ2",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect6.v",
+        "InstLine" : 506,
+        "InstName" : "READ3",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect6.v",
+        "InstLine" : 507,
+        "InstName" : "READ4",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect6.v",
+        "InstLine" : 508,
+        "InstName" : "READ5",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/effect6.v",
+        "InstLine" : 509,
+        "InstName" : "READ6",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       }
+      ]
+     },
+     {
+      "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/controller.v",
+      "InstLine" : 429,
+      "InstName" : "SET",
+      "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/setting.v",
+      "ModuleLine" : 6,
+      "ModuleName" : "setting",
+      "SubInsts" : [
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/setting.v",
+        "InstLine" : 503,
+        "InstName" : "WRITE0",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/setting.v",
+        "InstLine" : 504,
+        "InstName" : "WRITE1",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/setting.v",
+        "InstLine" : 505,
+        "InstName" : "WRITE2",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/setting.v",
+        "InstLine" : 506,
+        "InstName" : "WRITE3",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/setting.v",
+        "InstLine" : 507,
+        "InstName" : "WRITE4",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/setting.v",
+        "InstLine" : 508,
+        "InstName" : "WRITE5",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/setting.v",
+        "InstLine" : 509,
+        "InstName" : "WRITE6",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/table_char.v",
+        "ModuleLine" : 4,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/setting.v",
+        "InstLine" : 511,
+        "InstName" : "LEFT",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/button.v",
+        "ModuleLine" : 5,
+        "ModuleName" : "button"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/setting.v",
+        "InstLine" : 513,
+        "InstName" : "RIGHT",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/button.v",
+        "ModuleLine" : 5,
+        "ModuleName" : "button"
+       },
+       {
+        "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/setting.v",
+        "InstLine" : 515,
+        "InstName" : "CHANGE",
+        "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/button.v",
+        "ModuleLine" : 5,
+        "ModuleName" : "button"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "InstFile" : "E:/DO_AN_TKLL/do_an_tkll/src/main.v",
+    "InstLine" : 96,
+    "InstName" : "CHANGE_MODE",
+    "ModuleFile" : "E:/DO_AN_TKLL/do_an_tkll/src/button.v",
+    "ModuleLine" : 5,
+    "ModuleName" : "button"
+   }
+  ]
+ }
+]

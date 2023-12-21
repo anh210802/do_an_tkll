@@ -1,0 +1,48 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'E:\DO_AN_TKLL\do_an_tkll\src\button.v'
+Analyzing Verilog file 'E:\DO_AN_TKLL\do_an_tkll\src\controller.v'
+Analyzing Verilog file 'E:\DO_AN_TKLL\do_an_tkll\src\effect0.v'
+Analyzing Verilog file 'E:\DO_AN_TKLL\do_an_tkll\src\effect1.v'
+Analyzing Verilog file 'E:\DO_AN_TKLL\do_an_tkll\src\effect2.v'
+Analyzing Verilog file 'E:\DO_AN_TKLL\do_an_tkll\src\effect3.v'
+Analyzing Verilog file 'E:\DO_AN_TKLL\do_an_tkll\src\effect4.v'
+Analyzing Verilog file 'E:\DO_AN_TKLL\do_an_tkll\src\effect5.v'
+Analyzing Verilog file 'E:\DO_AN_TKLL\do_an_tkll\src\effect6.v'
+Analyzing Verilog file 'E:\DO_AN_TKLL\do_an_tkll\src\main.v'
+Analyzing Verilog file 'E:\DO_AN_TKLL\do_an_tkll\src\setting.v'
+Analyzing Verilog file 'E:\DO_AN_TKLL\do_an_tkll\src\switch.v'
+Analyzing Verilog file 'E:\DO_AN_TKLL\do_an_tkll\src\table_char.v'
+Compiling module 'main'("E:\DO_AN_TKLL\do_an_tkll\src\main.v":15)
+Compiling module 'controller'("E:\DO_AN_TKLL\do_an_tkll\src\controller.v":5)
+Compiling module 'button'("E:\DO_AN_TKLL\do_an_tkll\src\button.v":5)
+Compiling module 'switch'("E:\DO_AN_TKLL\do_an_tkll\src\switch.v":5)
+Compiling module 'effect0'("E:\DO_AN_TKLL\do_an_tkll\src\effect0.v":6)
+Compiling module 'table_char'("E:\DO_AN_TKLL\do_an_tkll\src\table_char.v":4)
+Compiling module 'effect1'("E:\DO_AN_TKLL\do_an_tkll\src\effect1.v":5)
+Compiling module 'effect2'("E:\DO_AN_TKLL\do_an_tkll\src\effect2.v":5)
+Compiling module 'effect3'("E:\DO_AN_TKLL\do_an_tkll\src\effect3.v":6)
+Compiling module 'effect4'("E:\DO_AN_TKLL\do_an_tkll\src\effect4.v":8)
+Compiling module 'effect5'("E:\DO_AN_TKLL\do_an_tkll\src\effect5.v":6)
+Compiling module 'effect6'("E:\DO_AN_TKLL\do_an_tkll\src\effect6.v":8)
+Compiling module 'setting'("E:\DO_AN_TKLL\do_an_tkll\src\setting.v":6)
+NOTE  (EX0101) : Current top module is "main"
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+[95%] Generate netlist file "E:\DO_AN_TKLL\do_an_tkll\impl\gwsynthesis\do_an.vg" completed
+[100%] Generate report file "E:\DO_AN_TKLL\do_an_tkll\impl\gwsynthesis\do_an_syn.rpt.html" completed
+GowinSynthesis finish
